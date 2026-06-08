@@ -1,0 +1,904 @@
+﻿match_id,incident_type,incident_class,minute,is_home,player_id,player_name,assist_name,player_in_name,player_out_name,score_home,score_away,team,match_date,tournament,home_team,away_team,rival
+16112839,period,,90,,,,,,,"3,0","1,0",Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,injuryTime,,90,,,,,,,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,89,True,,,,Daniel Muñoz,Santiago Arias,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,83,False,,,,Orlando Sinclair,Josimar Alcócer,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,goal,regular,81,True,"914213,0",Luis Javier Suárez,James Rodríguez,,,"3,0","1,0",Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,77,False,,,,Luis Flores,Manfred Ugalde,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,74,True,,,,Deiver Machado,Johan Mojica,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,74,True,,,,Yerry Mina,Willer Ditta,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,74,True,,,,David Ospina,Camilo Vargas,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,74,True,,,,Juan Fernando Quintero,Luis Díaz,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,68,True,,,,Kevin Castaño,Richard Ríos,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,68,True,,,,Juan Portilla,Gustavo Puerta,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,card,yellow,62,True,"1015292,0",Richard Ríos,,,,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,61,False,,,,Álvaro Zamora,Haxzel Quirós,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,61,False,,,,Cristopher Núñez,Andrey Soto,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,card,yellow,53,False,"1099285,0",Jeyland Mitchell,,,,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,46,True,,,,Jhon Arias,Andrés Gómez,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,46,True,,,,Luis Javier Suárez,Cucho Hernández,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,46,True,,,,Jhon Lucumí,Davinson Sánchez,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,substitution,regular,46,True,,,,James Rodríguez,Jorge Carrascal,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,period,,45,,,,,,,"2,0","1,0",Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,injuryTime,,45,,,,,,,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,card,yellow,40,True,"931705,0",Willer Ditta,,,,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,goal,regular,33,False,"971340,0",Andrey Soto,Josimar Alcócer,,,"2,0","1,0",Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,card,yellow,24,False,"905391,0",Fernán Faerron,,,,,,Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,goal,regular,23,True,"883537,0",Luis Díaz,Jorge Carrascal,,,"2,0","0,0",Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+16112839,goal,regular,17,True,"566102,0",Davinson Sánchez,Luis Díaz,,,"1,0","0,0",Colombia,2026-06-01 23:00:00,Int. Friendly Games,Colombia,Costa Rica,Costa Rica
+15655701,period,,90,,,,,,,"1,0","3,0",Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,injuryTime,,90,,,,,,,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,78,False,,,,Kylian Mbappé,Marcus Thuram,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,78,False,,,,Michael Olise,Rayan Cherki,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,goal,regular,77,True,"877299,0",Jaminton Campaz,Jefferson Lerma,,,"1,0","3,0",Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,card,yellow,74,False,"973887,0",Eduardo Camavinga,,,,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,64,False,,,,Eduardo Camavinga,Warren Zaïre-Emery,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,63,False,,,,Hugo Ekitiké,Désiré Doué,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,63,False,,,,Randal Kolo Muani,Maghnes Akliouche,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,63,True,,,,Jaminton Campaz,Luis Díaz,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,63,True,,,,Deiver Machado,Johan Mojica,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,63,True,,,,Juan Fernando Quintero,James Rodríguez,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,card,yellow,61,True,"1174889,0",Gustavo Puerta,,,,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,goal,regular,56,False,"1154605,0",Désiré Doué,Marcus Thuram,,,"0,0","3,0",Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,card,yellow,50,False,"1154605,0",Désiré Doué,,,,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,46,True,,,,Jhon Córdoba,Luis Javier Suárez,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,46,True,,,,Andrés Gómez,Jhon Arias,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,substitution,regular,46,True,,,,Gustavo Puerta,Richard Ríos,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,period,,45,,,,,,,"0,0","2,0",Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,injuryTime,,45,,,,,,,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,goal,regular,41,False,"791702,0",Marcus Thuram,Maghnes Akliouche,,,"0,0","2,0",Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,card,yellow,39,False,"791702,0",Marcus Thuram,,,,,,Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15655701,goal,regular,29,False,"1154605,0",Désiré Doué,,,,"0,0","1,0",Colombia,2026-03-29 19:00:00,Int. Friendly Games,Colombia,France,France
+15332281,period,,90,,,,,,,"1,0","2,0",Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,83,False,,,,Toni Fruk,Nikola Moro,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,80,False,,,,Luka Modrić,Mario Pašalić,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,79,False,,,,Andrej Kramarić,Marco Pašalić,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,79,False,,,,Kristijan Jakić,Martin Erlić,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,71,True,,,,Andrés Gómez,Luis Díaz,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,71,True,,,,Juan Fernando Quintero,Jhon Arias,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,71,True,,,,Jhon Córdoba,Luis Javier Suárez,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,71,True,,,,Gustavo Puerta,Richard Ríos,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,71,True,,,,Santiago Arias,Daniel Muñoz,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,63,True,,,,Kevin Castaño,Jefferson Lerma,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,63,True,,,,Deiver Machado,Johan Mojica,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,63,True,,,,Jorge Carrascal,James Rodríguez,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,62,False,,,,Martin Baturina,Petar Sučić,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,61,False,,,,Luka Sučić,Nikola Vlašić,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,card,yellow,55,False,"357596,0",Nikola Vlašić,,,,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,card,yellow,51,False,"789234,0",Martin Erlić,,,,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,46,False,,,,Petar Musa,Igor Matanović,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,substitution,regular,46,False,,,,Josip Stanišić,Ivan Perišić,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,period,,45,,,,,,,"1,0","2,0",Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,goal,regular,42,False,"1019321,0",Igor Matanović,Marco Pašalić,,,"1,0","2,0",Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,card,yellow,40,False,"1091303,0",Petar Sučić,,,,,,Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,goal,regular,6,False,"1405212,0",Luka Vušković,Mario Pašalić,,,"1,0","1,0",Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15332281,goal,regular,3,True,"844096,0",Jhon Arias,,,,"1,0","0,0",Colombia,2026-03-26 23:30:00,Int. Friendly Games,Colombia,Croatia,Croatia
+15027618,period,,90,,,,,,,"3,0","0,0",Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,card,yellow,90,True,"1174889,0",Gustavo Puerta,,,,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,goal,regular,90,True,"355796,0",Jefferson Lerma,Davinson Sánchez,,,"3,0","0,0",Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,goal,regular,89,True,"883537,0",Luis Díaz,Rafael Borré,,,"2,0","0,0",Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,card,yellow,86,True,"355796,0",Jefferson Lerma,,,,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,83,False,,,,Al Hassan Toure,Mohamed Touré,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,81,True,,,,Jefferson Lerma,Yáser Asprilla,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,81,True,,,,Jorge Carrascal,Juan Portilla,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,78,False,,,,Paul Okon-Engstler,Aiden O'Neill,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,78,False,,,,Nestory Irankunda,Riley McGree,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,78,False,,,,Martin Boyle,Connor Metcalfe,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,goal,penalty,76,True,"107414,0",James Rodríguez,,,,"1,0","0,0",Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,70,True,,,,Rafael Borré,Luis Javier Suárez,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,69,True,,,,Gustavo Puerta,Richard Ríos,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,60,False,,,,Maximilien Balard,Jackson Irvine,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,substitution,regular,59,False,,,,Callum Elder,Kye Rowles,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,card,yellow,51,False,"822572,0",Kye Rowles,,,,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,period,,45,,,,,,,"0,0","0,0",Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,card,yellow,21,False,"847938,0",Aiden O'Neill,,,,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15027618,card,yellow,-5,False,,,,,,,,Colombia,2025-11-19 01:30:00,Int. Friendly Games,Colombia,Australia,Australia
+15035393,period,,90,,,,,,,"2,0","1,0",Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,goal,regular,88,True,"925125,0",Johan Carbonero,Yerry Mina,,,"2,0","1,0",Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,86,False,,,,James McGarry,Francis De Vries,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,goal,regular,80,False,"1122425,0",Benjamin Old,Sarpreet Singh,,,"1,0","1,0",Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,77,True,,,,Johan Carbonero,Jhon Arias,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,77,True,,,,Rafael Borré,Jhon Córdoba,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,74,False,,,,Jesse Randall,Elijah Just,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,74,False,,,,Ben Waine,Kosta Barbarouses,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,66,False,,,,Benjamin Old,Matthew Garbett,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,65,False,,,,Storm Roux,Bill Tuiloma,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,65,True,,,,Jorge Carrascal,James Rodríguez,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,64,True,,,,Yáser Asprilla,Luis Díaz,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,64,True,,,,Kevin Castaño,Gustavo Puerta,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,card,yellow,56,False,"822749,0",Joe Bell,,,,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,substitution,regular,46,True,,,,Jhon Lucumí,Carlos Cuesta,,,Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,period,,45,,,,,,,"1,0","0,0",Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+15035393,goal,regular,3,True,"1174889,0",Gustavo Puerta,Santiago Arias,,,"1,0","0,0",Colombia,2025-11-16 00:30:00,Int. Friendly Games,Colombia,New Zealand,New Zealand
+14784775,period,,90,,,,,,,"0,0","0,0",Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,85,True,,,,Zorhan Bassong,Niko Sigur,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,84,True,,,,Mathieu Choinière,Ismael Koné,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,79,False,,,,Jefferson Lerma,Juan Portilla,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,78,False,,,,Kevin Castaño,Richard Ríos,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,card,yellow,77,True,"1411145,0",Niko Sigur,,,,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,71,True,,,,Jacob Shaffelburg,Tajon Buchanan,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,71,True,,,,Promise David,Tani Oluwaseyi,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,61,True,,,,Liam Millar,Ali Ahmed,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,60,False,,,,Yáser Asprilla,Luis Díaz,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,60,False,,,,Rafael Borré,Cucho Hernández,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,60,False,,,,Kevin Serna,Juan Fernando Quintero,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,substitution,regular,46,False,,,,James Rodríguez,Jaminton Campaz,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,period,,45,,,,,,,"0,0","0,0",Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,card,yellow,45,True,"801411,0",Derek Cornelius,,,,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784775,card,yellow,12,True,"829207,0",Richie Laryea,,,,,,Colombia,2025-10-15 00:00:00,Int. Friendly Games,Canada,Colombia,Canada
+14784774,period,,90,,,,,,,"0,0","4,0",Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,goal,regular,87,False,"925125,0",Johan Carbonero,Juan Fernando Quintero,,,"0,0","4,0",Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,86,False,,,,Juan Portilla,Kevin Castaño,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,86,False,,,,Richard Ríos,Jefferson Lerma,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,card,yellow,82,True,"770253,0",Jesús Gallardo,,,,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,77,True,,,,Carlos Rodríguez,Erik Lira,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,69,False,,,,Rafael Borré,Luis Javier Suárez,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,69,False,,,,Juan Fernando Quintero,James Rodríguez,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,67,True,,,,Julián Quiñones,Alexis Vega,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,67,True,,,,Germán Berterame,Santiago Giménez,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,66,False,,,,Johan Carbonero,Luis Díaz,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,65,False,,,,Jaminton Campaz,Kevin Serna,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,goal,regular,64,False,"355796,0",Jefferson Lerma,,,,"0,0","3,0",Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,card,yellow,63,True,"832868,0",Jorge Sánchez,,,,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,57,True,,,,Hirving Lozano,Marcel Ruíz,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,57,True,,,,Erick Sánchez,Orbelín Pineda,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,substitution,regular,57,True,,,,Luis Romo,Diego Lainez,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,goal,regular,56,False,"883537,0",Luis Díaz,James Rodríguez,,,"0,0","2,0",Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,card,yellow,48,False,"914213,0",Luis Javier Suárez,,,,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,period,,45,,,,,,,"0,0","1,0",Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,injuryTime,,45,,,,,,,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,card,yellow,31,True,"942167,0",Marcel Ruíz,,,,,,Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14784774,goal,regular,16,False,"818481,0",Jhon Lucumí,James Rodríguez,,,"0,0","1,0",Colombia,2025-10-12 01:00:00,Int. Friendly Games,Mexico,Colombia,Mexico
+14169223,period,,90,,,,,,,"3,0","6,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,substitution,regular,86,False,,,,Juan Portilla,Jefferson Lerma,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,goal,regular,78,False,"281253,0",Jhon Córdoba,Juan Fernando Quintero,,,"3,0","6,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,substitution,regular,77,False,,,,Jhon Arias,Kevin Castaño,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,goal,regular,76,True,"35532,0",Salomón Rondón,,,,"3,0","5,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,substitution,regular,74,True,,,,Cristian Cásseres Jr.,Telasco Segovia,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,substitution,regular,69,False,,,,Jhon Córdoba,Luis Javier Suárez,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,substitution,regular,69,True,,,,Jefferson Savarino,Josef Martínez,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,substitution,regular,68,False,,,,Juan Fernando Quintero,James Rodríguez,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,goal,regular,67,False,"914213,0",Luis Javier Suárez,Richard Ríos,,,"2,0","5,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,substitution,regular,63,True,,,,Kevin Kelsy,Miguel Navarro,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,substitution,regular,63,True,,,,Jhon Murillo,Eduard Bello,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,card,yellow,62,True,"979325,0",José Martínez,,,,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,goal,regular,59,False,"914213,0",Luis Javier Suárez,Luis Díaz,,,"2,0","4,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,goal,regular,50,False,"914213,0",Luis Javier Suárez,James Rodríguez,,,"2,0","3,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,period,,45,,,,,,,"2,0","2,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,injuryTime,,45,,,,,,,,,Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,goal,regular,42,False,"914213,0",Luis Javier Suárez,,,,"2,0","2,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,goal,regular,12,True,"133990,0",Josef Martínez,,,,"2,0","1,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,goal,regular,10,False,"360396,0",Yerry Mina,James Rodríguez,,,"1,0","1,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169223,goal,regular,3,True,"1106549,0",Telasco Segovia,Salomón Rondón,,,"1,0","0,0",Colombia,2025-09-09 23:30:00,"World Cup Qualification, CONMEBOL",Venezuela,Colombia,Venezuela
+14169217,period,,90,,,,,,,"3,0","0,0",Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,injuryTime,,90,,,,,,,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,regular,87,True,,,,Marino Hinestroza,Luis Díaz,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,goal,regular,83,True,"221162,0",Juan Fernando Quintero,Luis Díaz,,,"3,0","0,0",Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,regular,82,True,,,,Juan Portilla,Jefferson Lerma,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,regular,82,True,,,,Dayro Moreno,Jhon Córdoba,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,regular,77,False,,,,Moisés Villarroel,Gabriel Villamil,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,regular,76,False,,,,Carlos Melgar,Robson Matheus,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,regular,76,False,,,,Henry Vaca,José Sagredo,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,card,yellow,76,True,"281253,0",Jhon Córdoba,,,,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,goal,regular,74,True,"281253,0",Jhon Córdoba,Juan Fernando Quintero,,,"2,0","0,0",Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,regular,68,False,,,,Carmelo Algarañaz,Moisés Paniagua,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,injury,68,False,,,,Yomar Rocha,Diego Medina,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,card,yellow,63,False,"1159649,0",Ervin Vaca,,,,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,regular,61,True,,,,Jaminton Campaz,Jhon Arias,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,substitution,regular,61,True,,,,Juan Fernando Quintero,James Rodríguez,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,period,,45,,,,,,,"1,0","0,0",Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,injuryTime,,45,,,,,,,,,Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+14169217,goal,regular,31,True,"107414,0",James Rodríguez,Santiago Arias,,,"1,0","0,0",Colombia,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Colombia,Bolivia,Bolivia
+13856224,period,,90,,,,,,,"1,0","1,0",Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,card,yellow,90,False,"870360,0",Daniel Muñoz,,,,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,substitution,regular,90,True,,,,Leonardo Balerdi,Thiago Almada,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,injuryTime,,90,,,,,,,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,goal,regular,81,True,"944660,0",Thiago Almada,Exequiel Palacios,,,"1,0","1,0",Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,card,yellow,79,False,"870013,0",Andrés Román,,,,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,substitution,regular,78,True,,,,Juan Foyth,Facundo Medina,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,substitution,regular,78,True,,,,Exequiel Palacios,Lionel Messi,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,substitution,regular,73,False,,,,Rafael Carrascal,James Rodríguez,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,substitution,injury,73,False,,,,Jhon Arias,Kevin Castaño,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,card,yellow,72,False,"566102,0",Davinson Sánchez,,,,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,card,yellow,72,True,"255389,0",Leandro Paredes,,,,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,card,red,70,True,"974505,0",Enzo Fernández,,,,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,substitution,regular,57,False,,,,Andrés Román,Jaminton Campaz,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,substitution,regular,46,True,,,,Giuliano Simeone,Rodrigo De Paul,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,substitution,regular,46,True,,,,Nicolás González,Nahuel Molina,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,period,,45,,,,,,,"0,0","1,0",Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,card,yellow,45,False,"1066915,0",Kevin Castaño,,,,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,injuryTime,,45,,,,,,,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,card,yellow,32,True,"831799,0",Nahuel Molina,,,,,,Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+13856224,goal,regular,24,False,"883537,0",Luis Díaz,Kevin Castaño,,,"0,0","1,0",Colombia,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Argentina
+16118858,period,,90,,,,,,,"2,0","0,0",Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,card,yellow,90,True,"973564,0",Nicolás Capaldo,,,,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,injuryTime,,90,,,,,,,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,86,True,,,,Joaquín Freitas,Nicolás Otamendi,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,82,True,,,,Nicolás Capaldo,Giuliano Simeone,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,81,False,,,,Luis Ortiz,Edrick Menjívar,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,81,False,,,,Cristián Canales,Cristopher Meléndez,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,81,False,,,,Kevin Güity,Luis Palma,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,81,True,,,,Tomás Aranda,Exequiel Palacios,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,81,True,,,,Santiago Beltrán,Juan Musso,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,79,False,,,,Clinton Bennett,Giancarlos Sacaza,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,78,False,,,,Jeffry Miranda,Rigoberto Rivas,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,78,False,,,,José Aguilera,Joseph Rosales,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,card,yellow,72,True,"860307,0",Facundo Medina,,,,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,63,True,,,,Cristian Romero,Lisandro Martínez,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,63,True,,,,José Manuel López,Lautaro Martínez,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,62,True,,,,Enzo Fernández,Thiago Almada,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,62,True,,,,Alexis Mac Allister,Giovani Lo Celso,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,62,False,,,,José Reyes,Edwin Rodríguez,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,62,False,,,,Exon Arzú,Dereck Moncada,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,62,False,,,,David Ruíz,Kervin Arriaga,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,62,False,,,,Luis Vega,Denil Maldonado,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,goal,regular,54,True,"1099352,0",Giuliano Simeone,Lautaro Martínez,,,"2,0","0,0",Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,card,yellow,52,False,"822001,0",Denil Maldonado,,,,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,card,yellow,49,True,"859999,0",Lisandro Martínez,,,,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,46,False,,,,Keyrol Figueroa,Jorge Benguché,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,46,True,,,,Facundo Medina,Nicolás Tagliafico,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,substitution,regular,46,True,,,,Rodrigo De Paul,Valentín Barco,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,period,,45,,,,,,,"1,0","0,0",Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,injuryTime,,45,,,,,,,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,goal,penalty,37,True,"823984,0",Lautaro Martínez,,,,"1,0","0,0",Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+16118858,card,yellow,31,True,"1127057,0",Valentín Barco,,,,,,Argentina,2026-06-07 00:00:00,Int. Friendly Games,Argentina,Honduras,Honduras
+15884050,period,,90,,,,,,,"5,0","0,0",Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,goal,regular,90,True,"1127057,0",Valentín Barco,Nicolás González,,,"5,0","0,0",Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,injury,90,False,,,,,David Simukonda,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,injuryTime,,90,,,,,,,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,card,yellow,89,False,"1881647,0",Owen Tembo,,,,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,88,False,,,,Frederick Mulambia,Frederick Mwimanzi,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,88,False,,,,Kondwani Chiboni,Wilson Chisala,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,77,False,,,,Pascal Phiri,Albert Kangwanda,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,74,True,,,,Juan Musso,Emiliano Martínez,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,74,True,,,,Nico Paz,Thiago Almada,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,74,True,,,,Máximo Perrone,Enzo Fernández,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,70,True,,,,Giuliano Simeone,Julián Alvarez,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,69,True,,,,Lucas Martínez Quarta,Nicolás Otamendi,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,goal,ownGoal,68,True,"1083196,0",Dominic Chanda,,,,"4,0","0,0",Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,61,False,,,,Chanka Zimba,Fashion Sakala,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,60,False,,,,Patson Daka,Given Kalusa,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,60,False,,,,Owen Tembo,Kingstone Mutandwa,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,54,True,,,,Valentín Barco,Leandro Paredes,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,54,True,,,,Nicolás González,Nicolás Tagliafico,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,substitution,regular,53,True,,,,Rodrigo De Paul,Alexis Mac Allister,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,goal,penalty,50,True,"74915,0",Nicolás Otamendi,,,,"3,0","0,0",Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,period,,45,,,,,,,"2,0","0,0",Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,injuryTime,,45,,,,,,,,,Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,goal,regular,43,True,"12994,0",Lionel Messi,Alexis Mac Allister,,,"2,0","0,0",Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15884050,goal,regular,4,True,"944656,0",Julián Alvarez,Thiago Almada,,,"1,0","0,0",Argentina,2026-03-31 23:30:00,Int. Friendly Games,Argentina,Zambia,Zambia
+15847002,period,,90,,,,,,,"2,0","1,0",Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,goal,regular,90,False,"363042,0",Jordan Lefort,Sidi Yacoub,,,"2,0","1,0",Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,injuryTime,,90,,,,,,,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,85,False,,,,Nouh Mohamed El Abd,Aboubakary Koita,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,85,False,,,,Souleymane Anne,Beyatt Lekoueiry,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,85,False,,,,Abdallahi Mahmoud,Lamine Ba,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,78,False,,,,Sidi Yacoub,Maata Magassa,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,78,False,,,,Moctar El Hacen,Oumar Ngom,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,78,False,,,,Khadim Diaw,Aly Abeid,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,76,True,,,,Exequiel Palacios,Alexis Mac Allister,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,75,True,,,,José López,Thiago Almada,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,69,True,,,,Agustín Giay,Nahuel Molina,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,69,True,,,,Gabriel Rojas,Marcos Acuña,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,63,False,,,,Sidi Amar Bouna,Djeidi Gassama,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,card,yellow,61,True,"830659,0",Marcos Senesi,,,,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,56,True,,,,Giuliano Simeone,Enzo Fernández,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,46,True,,,,Franco Mastantuono,Julián Alvarez,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,46,True,,,,Lionel Messi,Nico Paz,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,46,True,,,,Rodrigo De Paul,Nicolás González,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,substitution,regular,46,False,,,,Papa Ndiaga Yade,Mamadou Diallo,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,period,,45,,,,,,,"2,0","0,0",Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,injuryTime,,45,,,,,,,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,card,yellow,38,False,"872038,0",Lamine Ba,,,,,,Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,goal,regular,32,True,"1171451,0",Nico Paz,,,,"2,0","0,0",Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15847002,goal,regular,17,True,"974505,0",Enzo Fernández,Nahuel Molina,,,"1,0","0,0",Argentina,2026-03-27 23:15:00,Int. Friendly Games,Argentina,Mauritania,Mauritania
+15016652,period,,90,,,,,,,"0,0","2,0",Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,86,True,,,,Ary Papel,Fredy,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,86,False,,,,Gianluca Prestianni,Nicolás González,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,86,False,,,,Joaquin Panichelli,Lionel Messi,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,85,False,,,,José López,Lautaro Martínez,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,85,False,,,,Máximo Perrone,Alexis Mac Allister,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,goal,regular,82,False,"12994,0",Lionel Messi,Lautaro Martínez,,,"0,0","2,0",Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,77,True,,,,Mabululu,M'bala Nzola,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,injury,70,False,,,,Emiliano Buendía,Thiago Almada,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,67,True,,,,Núrio Fortuna,Chico Banza,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,67,True,,,,Show,Gelson Dala,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,67,True,,,,Benson Manuel,Zito Luvumbo,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,card,yellow,62,False,"895324,0",Alexis Mac Allister,,,,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,60,False,,,,Kevin Mac Allister,Giovani Lo Celso,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,substitution,regular,46,True,,,,Neblú,Hugo Marques,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,period,,45,,,,,,,"0,0","1,0",Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,card,yellow,44,True,"845281,0",Fredy,,,,,,Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+15016652,goal,regular,43,False,"823984,0",Lautaro Martínez,Lionel Messi,,,"0,0","1,0",Argentina,2025-11-14 16:00:00,Int. Friendly Games,Angola,Argentina,Angola
+14787861,period,,90,,,,,,,"0,0","6,0",Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,goal,regular,84,False,"823984,0",Lautaro Martínez,Lionel Messi,,,"0,0","6,0",Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,82,True,,,,Diego Rossi,Wilfredo Rivera,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,82,True,,,,Rodolfo Sulia,Nicolás Cardona,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,goal,regular,79,False,"823984,0",Lautaro Martínez,Nicolás González,,,"0,0","5,0",Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,76,False,,,,Facundo Cambeses,Emiliano Martínez,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,73,True,,,,Darren Ríos,Sidney Paris,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,73,True,,,,Gerald Díaz,Ricardo Rivera,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,goal,ownGoal,64,False,"1119330,0",Steven Echeverria,,,,"0,0","4,0",Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,61,False,,,,Nahuel Molina,Gonzalo Montiel,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,61,False,,,,Lautaro Martínez,José Manuel López,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,61,True,,,,Juan O'Neill,Isaac Angking,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,61,True,,,,Noeh Hernández,Jeremy de León,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,58,False,,,,Nico Paz,Giuliano Simeone,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,46,False,,,,Aníbal Moreno,Giovani Lo Celso,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,substitution,regular,46,False,,,,Lautaro Rivero,Nicolás Otamendi,,,Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,period,,45,,,,,,,"0,0","3,0",Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,goal,regular,36,False,"895324,0",Alexis Mac Allister,José Manuel López,,,"0,0","3,0",Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,goal,regular,23,False,"822933,0",Gonzalo Montiel,Lionel Messi,,,"0,0","2,0",Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787861,goal,regular,14,False,"895324,0",Alexis Mac Allister,Nicolás González,,,"0,0","1,0",Argentina,2025-10-15 00:00:00,Int. Friendly Games,Puerto Rico,Argentina,Puerto Rico
+14787863,period,,90,,,,,,,"1,0","0,0",Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,card,yellow,88,False,"878938,0",Cristian Cásseres Jr.,,,,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,83,False,,,,Wikelman Carmona,Telasco Segovia,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,78,False,,,,Ronald Hernández,Jon Aramburu,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,78,False,,,,Carlos Faya,Juanpi Añor,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,78,True,,,,Alexis Mac Allister,Enzo Fernández,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,78,True,,,,Leonardo Balerdi,Nahuel Molina,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,78,True,,,,Rodrigo De Paul,Julián Alvarez,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,card,yellow,74,False,"1116388,0",Jon Aramburu,,,,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,63,True,,,,Giuliano Simeone,Leandro Paredes,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,card,yellow,60,False,"789993,0",José Contreras,,,,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,58,False,,,,Matías Lacava,Kervin Andrade,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,58,False,,,,Kevin Kelsy,Alejandro Marqués,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,substitution,regular,46,True,,,,Nicolás González,Nicolás Tagliafico,,,Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,period,,45,,,,,,,"1,0","0,0",Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14787863,goal,regular,31,True,"798835,0",Giovani Lo Celso,Lautaro Martínez,,,"1,0","0,0",Argentina,2025-10-11 00:00:00,Int. Friendly Games,Argentina,Venezuela,Venezuela
+14169218,period,,90,,,,,,,"1,0","0,0",Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,regular,90,True,,,,Alan Minda,John Yeboah,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,injuryTime,,90,,,,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,card,yellow,80,False,"928236,0",Leonardo Balerdi,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,regular,69,True,,,,Kevin Rodriguez,Gonzalo Plata,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,regular,68,False,,,,Giovani Lo Celso,Rodrigo De Paul,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,regular,68,False,,,,Nahuel Molina,Gonzalo Montiel,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,card,yellow,65,False,"158243,0",Nicolás Tagliafico,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,regular,63,False,,,,Julián Alvarez,Lautaro Martínez,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,regular,62,False,,,,Franco Mastantuono,Leandro Paredes,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,regular,59,True,,,,Kendry Páez,Enner Valencia,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,regular,59,True,,,,Jordy Alcivar,Nilson Angulo,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,card,yellowRed,50,True,"987650,0",Moisés Caicedo,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,injury,46,True,,,,John Yeboah,Ángelo Preciado,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,period,,45,,,,,,,"1,0","0,0",Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,goal,penalty,45,True,"106456,0",Enner Valencia,,,,"1,0","0,0",Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,varDecision,penaltyNotAwarded,45,True,"881844,0",Ángelo Preciado,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,card,yellow,45,True,"881844,0",Ángelo Preciado,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,injuryTime,,45,,,,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,substitution,regular,38,False,,,,Juan Foyth,Giuliano Simeone,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,card,red,31,False,"74915,0",Nicolás Otamendi,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,card,yellow,26,True,"937937,0",Gonzalo Plata,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,card,yellow,16,True,"987650,0",Moisés Caicedo,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169218,card,yellow,8,False,"823984,0",Lautaro Martínez,,,,,,Argentina,2025-09-09 23:00:00,"World Cup Qualification, CONMEBOL",Ecuador,Argentina,Ecuador
+14169215,period,,90,,,,,,,"3,0","0,0",Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,injuryTime,,90,,,,,,,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,81,False,,,,Jhon Murillo,Eduard Bello,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,81,True,,,,Nico Paz,Thiago Almada,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,81,True,,,,Giuliano Simeone,Nahuel Molina,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,goal,regular,80,True,"12994,0",Lionel Messi,Thiago Almada,,,"3,0","0,0",Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,goal,regular,76,True,"823984,0",Lautaro Martínez,Nicolás González,,,"2,0","0,0",Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,74,True,,,,Lautaro Martínez,Julián Alvarez,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,74,True,,,,Exequiel Palacios,Leandro Paredes,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,67,False,,,,Leonardo Flores,Jefferson Savarino,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,card,yellow,64,True,"829932,0",Cristian Romero,,,,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,63,True,,,,Nicolás González,Franco Mastantuono,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,card,yellow,60,False,"1116388,0",Jon Aramburu,,,,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,56,False,,,,Josef Martínez,Salomón Rondón,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,56,False,,,,Yeferson Soteldo,Miguel Navarro,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,substitution,regular,46,False,,,,Jorge Yriarte,Tomás Rincón,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,period,,45,,,,,,,"1,0","0,0",Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,injuryTime,,45,,,,,,,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,goal,regular,39,True,"12994,0",Lionel Messi,Julián Alvarez,,,"1,0","0,0",Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+14169215,card,yellow,16,False,"878938,0",Cristian Cásseres Jr.,,,,,,Argentina,2025-09-04 23:30:00,"World Cup Qualification, CONMEBOL",Argentina,Venezuela,Venezuela
+13856224,period,,90,,,,,,,"1,0","1,0",Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,card,yellow,90,False,"870360,0",Daniel Muñoz,,,,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,substitution,regular,90,True,,,,Leonardo Balerdi,Thiago Almada,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,injuryTime,,90,,,,,,,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,goal,regular,81,True,"944660,0",Thiago Almada,Exequiel Palacios,,,"1,0","1,0",Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,card,yellow,79,False,"870013,0",Andrés Román,,,,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,substitution,regular,78,True,,,,Juan Foyth,Facundo Medina,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,substitution,regular,78,True,,,,Exequiel Palacios,Lionel Messi,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,substitution,regular,73,False,,,,Rafael Carrascal,James Rodríguez,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,substitution,injury,73,False,,,,Jhon Arias,Kevin Castaño,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,card,yellow,72,False,"566102,0",Davinson Sánchez,,,,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,card,yellow,72,True,"255389,0",Leandro Paredes,,,,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,card,red,70,True,"974505,0",Enzo Fernández,,,,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,substitution,regular,57,False,,,,Andrés Román,Jaminton Campaz,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,substitution,regular,46,True,,,,Giuliano Simeone,Rodrigo De Paul,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,substitution,regular,46,True,,,,Nicolás González,Nahuel Molina,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,period,,45,,,,,,,"0,0","1,0",Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,card,yellow,45,False,"1066915,0",Kevin Castaño,,,,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,injuryTime,,45,,,,,,,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,card,yellow,32,True,"831799,0",Nahuel Molina,,,,,,Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856224,goal,regular,24,False,"883537,0",Luis Díaz,Kevin Castaño,,,"0,0","1,0",Argentina,2025-06-11 00:00:00,"World Cup Qualification, CONMEBOL",Argentina,Colombia,Colombia
+13856223,period,,90,,,,,,,"0,0","1,0",Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,card,yellow,90,False,"829932,0",Cristian Romero,,,,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,injuryTime,,90,,,,,,,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,87,True,,,,Marcelino Núñez,Felipe Loyola,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,87,True,,,,Víctor Dávila,Alexis Sánchez,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,card,yellow,86,True,"339909,0",Guillermo Maripán,,,,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,84,False,,,,Juan Foyth,Giuliano Simeone,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,84,False,,,,Franco Mastantuono,Thiago Almada,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,80,False,,,,Ángel Correa,Julián Alvarez,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,card,yellow,79,True,"247959,0",Brayan Cortés,,,,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,79,False,,,,Facundo Medina,Leonardo Balerdi,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,card,yellow,59,False,"158243,0",Nicolás Tagliafico,,,,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,58,True,,,,Alexander Aravena,Darío Osorio,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,57,False,,,,Lionel Messi,Nico Paz,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,card,yellow,55,True,"1126447,0",Lucas Cepeda,,,,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,46,True,,,,Fabián Hormazábal,Vicente Pizarro,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,substitution,regular,46,True,,,,Javier Altamirano,Arturo Vidal,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,period,,45,,,,,,,"0,0","1,0",Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,injuryTime,,45,,,,,,,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,card,yellow,38,True,"18342,0",Arturo Vidal,,,,,,Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+13856223,goal,regular,16,False,"944656,0",Julián Alvarez,Thiago Almada,,,"0,0","1,0",Argentina,2025-06-06 01:00:00,"World Cup Qualification, CONMEBOL",Chile,Argentina,Chile
+16186149,period,,90,,,,,,,"1,0","1,0",España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,injuryTime,,90,,,,,,,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,card,yellow,80,False,"362504,0",Rebin Sulaka,,,,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,73,True,,,,Leo Román,Joan García,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,73,True,,,,Javi Rodríguez,Pedro Porro,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,72,False,,,,Youssef Amyn,Ibrahim Bayesh,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,injury,72,False,,,,Mustafa Saadoon,Ahmed Yahya,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,68,True,,,,Mikel Merino,Alex Baena,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,62,False,,,,Kevin Yakob,Amir Al-Ammari,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,62,False,,,,Frans Putros,Hussein Ali,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,62,False,,,,Rebin Sulaka,Akam Hashem,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,62,False,,,,Munaf Younus,Zaid Tahseen,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,62,False,,,,Zidane Iqbal,Zaid Ismail,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,61,False,,,,Ahmed Qasem,Marko Farji,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,61,False,,,,Ahmed Yahya,Merchas Doski,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,59,True,,,,Marc Pubill,Jon Martin,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,59,True,,,,Javier Guerra,Pablo Gavi,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,59,True,,,,Beñat Turrientes,Marc Bernal,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,card,yellow,57,False,"1843356,0",Zaid Ismail,,,,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,46,True,,,,Sergio Gómez,Ferran Torres,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,46,False,,,,Jalal Hassan,Ahmed Basil,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,46,False,,,,Aymen Hussein,Ali Al-Hamadi,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,46,True,,,,Jesús Rodriguez,Borja Iglesias,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,46,True,,,,Gonzalo García,Dani Olmo,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,46,True,,,,Yéremy Pino,Alejandro Grimaldo,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,substitution,regular,46,True,,,,Eric García,Aymeric Laporte,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,period,,45,,,,,,,"1,0","1,0",España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,card,yellow,37,True,"1103693,0",Pablo Gavi,,,,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,card,yellow,32,True,"1526618,0",Marc Bernal,,,,,,España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,goal,regular,27,False,"1381224,0",Merchas Doski,Akam Hashem,,,"1,0","1,0",España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+16186149,goal,regular,16,True,"855833,0",Ferran Torres,Dani Olmo,,,"1,0","0,0",España,2026-06-04 19:00:00,Int. Friendly Games,Spain,Iraq,Iraq
+15372901,period,,90,,,,,,,"0,0","0,0",España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,injuryTime,,90,,,,,,,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,card,yellow,89,False,"1048378,0",Mostafa Shobeir,,,,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,85,False,,,,Hossam Abdelmaguid,Omar Marmoush,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,card,yellow,84,False,"333441,0",Yasser Ibrahim,,,,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,card,yellowRed,84,False,"918913,0",Hamdy Fathy,,,,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,82,False,,,,Mahmoud Saber,Zizo,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,73,True,,,,Yéremy Pino,Ander Barrenetxea,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,card,yellow,72,False,"918913,0",Hamdy Fathy,,,,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,injury,68,False,,,,Haissem Hassan,Islam Issa,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,card,yellow,64,False,"918486,0",Islam Issa,,,,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,62,True,,,,Borja Iglesias,Ferran Torres,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,62,True,,,,Joan García,David Raya,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,46,False,,,,Mahmoud Trézéguet,Emam Ashour,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,46,True,,,,Fermín López,Dani Olmo,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,46,True,,,,Victor Muñoz,Lamine Yamal,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,46,True,,,,Pedri,Carlos Soler,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,substitution,regular,46,True,,,,Rodri,Pablo Fornals,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,period,,45,,,,,,,"0,0","0,0",España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15372901,injuryTime,,45,,,,,,,,,España,2026-03-31 19:00:00,Int. Friendly Games,Spain,Egypt,Egypt
+15794173,period,,90,,,,,,,"3,0","0,0",España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,injuryTime,,90,,,,,,,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,83,True,,,,Cristhian Mosquera,Pau Cubarsí,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,83,False,,,,Strahinja Eraković,Strahinja Pavlović,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,83,False,,,,Kosta Nedeljković,Ognjen Mimović,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,77,True,,,,Martín Zubimendi,Rodri,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,77,True,,,,Yéremy Pino,Alex Baena,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,76,False,,,,Dejan Joveljić,Aleksandar Stanković,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,76,False,,,,Stefan Bukinac,Aleksa Terzić,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,goal,regular,72,True,"1145642,0",Victor Muñoz,Ferran Torres,,,"3,0","0,0",España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,63,True,,,,Victor Muñoz,Mikel Oyarzabal,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,63,True,,,,Ferran Torres,Lamine Yamal,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,60,False,,,,Mijat Gaćinović,Filip Kostić,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,60,False,,,,Lazar Samardžić,Veljko Birmančević,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,60,False,,,,Saša Lukić,Nemanja Gudelj,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,60,False,,,,Luka Jović,Aleksandar Mitrović,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,46,True,,,,Dani Olmo,Pedri,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,substitution,regular,46,True,,,,Pablo Fornals,Fermín López,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,period,,45,,,,,,,"2,0","0,0",España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,injuryTime,,45,,,,,,,,,España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,goal,regular,43,True,"823622,0",Mikel Oyarzabal,Pau Cubarsí,,,"2,0","0,0",España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+15794173,goal,regular,16,True,"823622,0",Mikel Oyarzabal,Fermín López,,,"1,0","0,0",España,2026-03-27 20:00:00,Int. Friendly Games,Spain,Serbia,Serbia
+13233692,period,,90,,,,,,,"2,0","2,0",España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,card,yellow,90,False,"815890,0",Altay Bayındır,,,,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,injuryTime,,90,,,,,,,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,card,yellow,89,False,"899069,0",Mustafa Eskihellaç,,,,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,injury,86,False,,,,,Yusuf Sarı,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,83,True,,,,Pablo Fornals,Fabián Ruiz,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,83,False,,,,Yusuf Akçiçek,Merih Demiral,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,card,yellow,80,False,"806968,0",Merih Demiral,,,,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,78,False,,,,Atakan Karazor,Salih Özcan,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,78,False,,,,Mustafa Eskihellaç,Ferdi Kadıoğlu,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,card,yellow,76,False,"795005,0",Salih Özcan,,,,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,74,True,,,,Fermín López,Dani Olmo,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,69,False,,,,Yusuf Sarı,İrfan Can Kahveci,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,69,False,,,,Mert Müldür,Deniz Gül,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,card,yellow,68,True,"910031,0",Alex Baena,,,,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,62,True,,,,Samu Aghehowa,Mikel Oyarzabal,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,62,True,,,,Alex Baena,Yéremy Pino,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,goal,regular,62,True,"823622,0",Mikel Oyarzabal,,,,"2,0","2,0",España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,goal,regular,54,False,"795005,0",Salih Özcan,Orkun Kökçü,,,"1,0","2,0",España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,substitution,regular,46,True,,,,Ferran Torres,Mikel Merino,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,period,,45,,,,,,,"1,0","1,0",España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,injuryTime,,45,,,,,,,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,goal,regular,42,False,"1407720,0",Deniz Gül,,,,"1,0","1,0",España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,card,yellow,12,False,"1407720,0",Deniz Gül,,,,,,España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233692,goal,regular,4,True,"789071,0",Dani Olmo,Marc Cucurella,,,"1,0","0,0",España,2025-11-18 19:45:00,World Cup Qual. UEFA E,Spain,Türkiye,Türkiye
+13233663,period,,90,,,,,,,"0,0","4,0",España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,injuryTime,,90,,,,,,,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,regular,85,True,,,,Giorgi Abuashvili,Zuriko Davitashvili,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,regular,80,False,,,,Yéremy Pino,Ferran Torres,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,regular,71,True,,,,Giorgi Kvilitaia,Budu Zivzivadze,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,injury,71,True,,,,Giorgi Tsitaishvili,Anzor Mekvabishvili,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,regular,71,False,,,,Borja Iglesias,Mikel Oyarzabal,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,goal,regular,63,False,"823622,0",Mikel Oyarzabal,Ferran Torres,,,"0,0","4,0",España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,regular,62,False,,,,Fermín López,Mikel Merino,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,regular,62,False,,,,Pablo Barrios,Fabián Ruiz,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,regular,57,True,,,,Giorgi Kvernadze,Iuri Tabatadze,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,card,yellow,57,False,"592010,0",Mikel Merino,,,,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,regular,46,False,,,,Marcos Llorente,Pedro Porro,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,substitution,injury,46,True,,,,Guram Kashia,Saba Goglichidze,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,period,,45,,,,,,,"0,0","3,0",España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,injuryTime,,45,,,,,,,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,goal,regular,34,False,"855833,0",Ferran Torres,Mikel Oyarzabal,,,"0,0","3,0",España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,goal,regular,22,False,"966837,0",Martín Zubimendi,Fabián Ruiz,,,"0,0","2,0",España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,goal,penalty,11,False,"823622,0",Mikel Oyarzabal,,,,"0,0","1,0",España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233663,varDecision,penaltyNotAwarded,9,False,"855833,0",Ferran Torres,,,,,,España,2025-11-15 17:00:00,World Cup Qual. UEFA E,Georgia,Spain,Georgia
+13233640,period,,90,,,,,,,"4,0","0,0",España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,goal,penalty,90,True,"823622,0",Mikel Oyarzabal,,,,"4,0","0,0",España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,injuryTime,,90,,,,,,,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,regular,89,False,,,,Andrian Kraev,Ilia Gruev,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,injury,84,False,,,,Kristiyan Stoyanov,Stanislav Shopov,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,goal,ownGoal,79,True,"1031642,0",Atanas Chernev,,,,"3,0","0,0",España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,injury,71,True,,,,Dani Vivian,Robin Le Normand,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,regular,68,True,,,,Pablo Barrios,Pedri,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,regular,67,False,,,,Vladimir Nikolov,Kiril Despodov,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,regular,67,False,,,,Marin Petkov,Martin Minchev,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,regular,67,False,,,,Zdravko Dimitrov,Radoslav Kirilov,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,regular,63,True,,,,Yéremy Pino,Alex Baena,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,regular,63,True,,,,Aleix García,Martín Zubimendi,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,goal,regular,57,True,"592010,0",Mikel Merino,Alejandro Grimaldo,,,"2,0","0,0",España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,substitution,regular,46,True,,,,Borja Iglesias,Samu Aghehowa,,,España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,period,,45,,,,,,,"1,0","0,0",España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233640,goal,regular,35,True,"592010,0",Mikel Merino,Robin Le Normand,,,"1,0","0,0",España,2025-10-14 18:45:00,World Cup Qual. UEFA E,Spain,Bulgaria,Bulgaria
+13233608,period,,90,,,,,,,"2,0","0,0",España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,injuryTime,,90,,,,,,,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,86,False,,,,Vladimer Mamuchashvili,Anzor Mekvabishvili,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,81,True,,,,Aleix García,Martín Zubimendi,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,80,False,,,,Irakli Azarovi,Otar Kakabadze,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,75,True,,,,Pablo Barrios,Pedri,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,75,True,,,,Marcos Llorente,Pedro Porro,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,69,False,,,,Giorgi Kvernadze,Georges Mikautadze,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,69,False,,,,Nika Gagnidze,Otar Kiteishvili,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,69,False,,,,Zuriko Davitashvili,Khvicha Kvaratskhelia,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,65,True,,,,Borja Iglesias,Mikel Oyarzabal,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,substitution,regular,64,True,,,,Alex Baena,Yéremy Pino,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,goal,regular,64,True,"823622,0",Mikel Oyarzabal,,,,"2,0","0,0",España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,period,,45,,,,,,,"1,0","0,0",España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,injuryTime,,45,,,,,,,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,inGamePenalty,missed,29,True,"855833,0",Ferran Torres,,,,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,goal,regular,24,True,"984624,0",Yéremy Pino,Robin Le Normand,,,"1,0","0,0",España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,card,yellow,11,True,"913654,0",Pedro Porro,,,,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233608,varDecision,penaltyNotAwarded,7,True,"855833,0",Ferran Torres,,,,,,España,2025-10-11 18:45:00,World Cup Qual. UEFA E,Spain,Georgia,Georgia
+13233482,period,,90,,,,,,,"0,0","6,0",España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,injuryTime,,90,,,,,,,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,regular,82,True,,,,Salih Özcan,İsmail Yüksek,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,regular,73,False,,,,Álvaro Morata,Lamine Yamal,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,regular,73,False,,,,Rodri,Martín Zubimendi,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,regular,68,False,,,,Fermín López,Mikel Oyarzabal,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,regular,68,True,,,,Orkun Kökçü,Hakan Çalhanoğlu,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,regular,68,False,,,,Jorge de Frutos,Pedri,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,regular,63,True,,,,Ferdi Kadıoğlu,Eren Elmalı,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,regular,63,True,,,,Zeki Çelik,Mert Müldür,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,goal,regular,62,False,"992587,0",Pedri,Mikel Oyarzabal,,,"0,0","6,0",España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,goal,regular,57,False,"592010,0",Mikel Merino,Lamine Yamal,,,"0,0","5,0",España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,goal,regular,53,False,"855833,0",Ferran Torres,Lamine Yamal,,,"0,0","4,0",España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,regular,46,True,,,,Oğuz Aydın,Yunus Akgün,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,period,,45,,,,,,,"0,0","3,0",España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,goal,regular,45,False,"592010,0",Mikel Merino,Mikel Oyarzabal,,,"0,0","3,0",España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,injuryTime,,45,,,,,,,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,substitution,injury,44,False,,,,Ferran Torres,Nico Williams,,,España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,goal,regular,22,False,"592010,0",Mikel Merino,Mikel Oyarzabal,,,"0,0","2,0",España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233482,goal,regular,6,False,"992587,0",Pedri,Nico Williams,,,"0,0","1,0",España,2025-09-07 18:45:00,World Cup Qual. UEFA E,Türkiye,Spain,Türkiye
+13233457,period,,90,,,,,,,"0,0","3,0",España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,injuryTime,,90,,,,,,,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,81,True,,,,Georgi Milanov,Ivajlo Chochev,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,79,False,,,,Jesús Rodriguez,Lamine Yamal,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,72,True,,,,Martin Minchev,Radoslav Kirilov,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,71,True,,,,Vladimir Nikolov,Aleksandar Kolev,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,71,False,,,,Dani Olmo,Nico Williams,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,62,True,,,,Rosen Bozhinov,Fabian Nürnberger,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,62,False,,,,Dani Carvajal,Pedro Porro,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,62,False,,,,Rodri,Martín Zubimendi,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,46,False,,,,Pau Cubarsí,Robin Le Normand,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,substitution,regular,46,True,,,,Marin Petkov,Vasil Panayotov,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,period,,45,,,,,,,"0,0","3,0",España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,injuryTime,,45,,,,,,,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,card,yellow,39,False,"787751,0",Robin Le Normand,,,,,,España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,goal,regular,38,False,"592010,0",Mikel Merino,Lamine Yamal,,,"0,0","3,0",España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,goal,regular,30,False,"794939,0",Marc Cucurella,,,,"0,0","2,0",España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13233457,goal,regular,5,False,"823622,0",Mikel Oyarzabal,Martín Zubimendi,,,"0,0","1,0",España,2025-09-04 18:45:00,World Cup Qual. UEFA E,Bulgaria,Spain,Bulgaria
+13157878,period,,90,,,,,,,"5,0","4,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,card,yellow,90,False,"974087,0",Manu Koné,,,,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,card,yellow,90,True,"1103693,0",Pablo Gavi,,,,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,card,yellow,90,False,"871706,0",Randal Kolo Muani,,,,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,goal,regular,90,False,"871706,0",Randal Kolo Muani,Rayan Cherki,,,"5,0","4,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,90,True,,,,Pablo Gavi,Mikel Merino,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,injuryTime,,90,,,,,,,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,goal,ownGoal,84,False,"910978,0",Dani Vivian,,,,"5,0","3,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,card,yellow,82,False,"788027,0",Theo Hernández,,,,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,goal,regular,79,False,"979128,0",Rayan Cherki,Kylian Mbappé,,,"5,0","2,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,77,True,,,,Samu Aghehowa,Mikel Oyarzabal,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,77,True,,,,Dani Vivian,Robin Le Normand,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,76,False,,,,Randal Kolo Muani,Ousmane Dembélé,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,72,False,,,,Lucas Hernández,Clément Lenglet,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,goal,regular,67,True,"1402912,0",Lamine Yamal,Pedro Porro,,,"5,0","1,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,64,True,,,,Fabián Ruiz,Pedri,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,64,True,,,,Dani Olmo,Nico Williams,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,63,False,,,,Bradley Barcola,Désiré Doué,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,63,False,,,,Rayan Cherki,Michael Olise,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,substitution,regular,63,False,,,,Malo Gusto,Pierre Kalulu,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,goal,penalty,59,False,"826643,0",Kylian Mbappé,,,,"4,0","1,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,goal,regular,55,True,"992587,0",Pedri,Nico Williams,,,"4,0","0,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,goal,penalty,54,True,"1402912,0",Lamine Yamal,,,,"3,0","0,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,card,yellow,51,False,"250737,0",Adrien Rabiot,,,,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,period,,45,,,,,,,"2,0","0,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,injuryTime,,45,,,,,,,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,card,yellow,33,True,"1402912,0",Lamine Yamal,,,,,,España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,goal,regular,25,True,"592010,0",Mikel Merino,Mikel Oyarzabal,,,"2,0","0,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+13157878,goal,regular,22,True,"1085400,0",Nico Williams,Mikel Oyarzabal,,,"1,0","0,0",España,2025-06-05 19:00:00,"UEFA Nations League, Finals",Spain,France,France
+15926539,period,,90,,,,,,,"5,0","1,0",México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,goal,regular,90,True,"757770,0",Luis Chávez,,,,"5,0","1,0",México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,79,False,,,,Mirko Milikić,Strahinja Eraković,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,79,False,,,,Kosta Nedeljković,Vladimir Lučić,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,75,False,,,,Vasilije Kostov,Vukašin Đurđević,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,75,False,,,,Petar Petrović,Nikola Simic,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,75,False,,,,Ognjen Mimović,Aleksandar Stanković,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,73,True,,,,Mateo Chávez,Johan Vásquez,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,73,True,,,,Orbelín Pineda,Roberto Alvarado,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,72,True,,,,Luis Romo,Jesús Gallardo,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,goal,ownGoal,72,True,"1493918,0",Adem Avdić,,,,"4,0","1,0",México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,card,yellow,68,False,"1493918,0",Adem Avdić,,,,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,card,yellow,65,True,"847151,0",Edson Álvarez,,,,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,61,False,,,,Veljko Ilić,Filip Stanković,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,61,False,,,,Njegoš Petrović,Vanja Dragojević,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,61,False,,,,Adem Avdić,Stefan Bukinac,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,59,True,,,,Israel Reyes,César Montes,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,59,True,,,,Gilberto Mora,Álvaro Fidalgo,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,59,True,,,,Luis Chávez,Raúl Jiménez,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,58,True,,,,Guillermo Martínez,Brian Gutiérrez,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,58,True,,,,Alexis Vega,Julián Quiñones,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,goal,regular,57,True,"192442,0",Raúl Jiménez,,,,"3,0","1,0",México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,46,True,,,,Edson Álvarez,Erik Lira,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,46,False,,,,Veljko Birmančević,Lazar Ranđelović,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,46,False,,,,Dejan Zukić,Petar Stanić,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,substitution,regular,46,False,,,,Mihailo Ivanović,Nikola Štulić,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,period,,45,,,,,,,"2,0","1,0",México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,goal,ownGoal,45,True,"1152947,0",Stefan Bukinac,,,,"2,0","1,0",México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,injuryTime,,45,,,,,,,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,card,yellow,43,True,"838629,0",Álvaro Fidalgo,,,,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,goal,regular,34,True,"889785,0",Johan Vásquez,Brian Gutiérrez,,,"1,0","1,0",México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,goal,regular,19,False,"1128120,0",Petar Stanić,,,,"0,0","1,0",México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15926539,card,yellow,16,False,"1500276,0",Vanja Dragojević,,,,,,México,2026-06-05 02:00:00,Int. Friendly Games,Mexico,Serbia,Serbia
+15891671,period,,90,,,,,,,"1,0","0,0",México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,90,False,,,,Awer Mabil,Jackson Irvine,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,90,False,,,,Cameron Burgess,Lucas Herrington,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,injuryTime,,90,,,,,,,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,80,False,,,,Aziz Behich,Jordan Bos,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,80,False,,,,Nestory Irankunda,Mohamed Touré,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,74,True,,,,Obed Vargas,Luis Romo,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,74,True,,,,Jesús Gómez,Johan Vásquez,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,67,False,,,,Nishan Velupillay,Connor Metcalfe,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,67,False,,,,Ajdin Hrustić,Mathew Leckie,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,67,False,,,,Kai Trewin,Jacob Italiano,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,67,False,,,,Paul Okon-Engstler,Aiden O'Neill,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,60,True,,,,César Montes,Edson Álvarez,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,60,True,,,,Jesús Gallardo,Mateo Chávez,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,60,True,,,,Julián Quiñones,Alexis Vega,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,60,True,,,,Erik Lira,Luis Chávez,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,60,True,,,,Gilberto Mora,Álvaro Fidalgo,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,card,yellow,52,True,"905257,0",César Huerta,,,,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,46,True,,,,César Huerta,Orbelín Pineda,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,46,True,,,,Israel Reyes,Jorge Sánchez,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,46,True,,,,Guillermo Ochoa,Raúl Rangel,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,substitution,regular,46,True,,,,Santiago Giménez,Guillermo Martínez,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,period,,45,,,,,,,"1,0","0,0",México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,injuryTime,,45,,,,,,,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,card,yellow,32,False,"907217,0",Jacob Italiano,,,,,,México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891671,goal,regular,28,True,"889785,0",Johan Vásquez,Alexis Vega,,,"1,0","0,0",México,2026-05-31 02:00:00,Int. Friendly Games,Mexico,Australia,Australia
+15891669,period,,90,,,,,,,"2,0","0,0",México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,90,False,,,,Ebenezer Abban,Oscar Naasei,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,90,False,,,,David Oduro,Nathaniel Adjei,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,90,False,,,,Ebenezer Adade,Jan Gyamerah,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,90,False,,,,Dacosta Antwi,Terry Yegbe,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,injuryTime,,90,,,,,,,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,card,yellow,83,True,"1638685,0",Mateo Chávez,,,,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,76,False,,,,Solomon Agbesi,Benjamin Asare,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,75,False,,,,Joseph Opoku,Ibrahim Osman,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,75,False,,,,Abdul Aziz Issah,Majeed Ashimeru,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,75,False,,,,Salim Adams,Emmanuel Agyei,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,71,True,,,,Iker Fimbres,Brian Gutiérrez,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,71,True,,,,Luis Gabriel Rey,Erik Lira,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,67,False,,,,Jerry Afriyie,Felix Afena-Gyan,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,66,False,,,,Prince Amoako Junior,Dan Agyei,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,66,False,,,,Razak Simpson,Jesurun Rak-Sakyi,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,62,True,,,,Luis Chávez,Jesús Gómez,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,62,True,,,,Kevin Castañeda,Alexis Vega,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,62,True,,,,Isaías Violante,Roberto Alvarado,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,62,True,,,,Eduardo Águila,Luis Romo,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,goal,regular,54,True,"795282,0",Guillermo Martínez,Luis Romo,,,"2,0","0,0",México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,46,True,,,,Mateo Chávez,Jesús Gallardo,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,46,True,,,,Jorge Sánchez,Israel Reyes,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,46,True,,,,Edson Álvarez,Gilberto Mora,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,46,True,,,,Guillermo Martínez,Armando González,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,substitution,regular,46,True,,,,Carlos Acevedo,Raúl Rangel,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,period,,45,,,,,,,"1,0","0,0",México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,injuryTime,,45,,,,,,,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,card,yellow,13,False,"1547525,0",Oscar Naasei,,,,,,México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15891669,goal,regular,2,True,"1023088,0",Brian Gutiérrez,,,,"1,0","0,0",México,2026-05-23 02:00:00,Int. Friendly Games,Mexico,Ghana,Ghana
+15372905,period,,90,,,,,,,"1,0","1,0",México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,injuryTime,,90,,,,,,,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,84,True,,,,Erick Sánchez,Brian Gutiérrez,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,card,yellow,75,False,"965778,0",Arthur Theate,,,,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,72,False,,,,Lucas Stassin,Dodi Lukebakio,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,72,False,,,,Alexis Saelemaekers,Maxim De Cuyper,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,72,False,,,,Joaquin Seys,Kevin De Bruyne,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,72,False,,,,Zeno Debast,Koni De Winter,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,72,False,,,,Arthur Theate,Nathan Ngoy,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,69,True,,,,Obed Vargas,Álvaro Fidalgo,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,69,True,,,,Roberto Alvarado,Orbelín Pineda,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,69,True,,,,Alexis Vega,Julián Quiñones,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,69,True,,,,Israel Reyes,Jorge Sánchez,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,68,True,,,,Armando González,Raúl Jiménez,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,card,yellow,68,False,"997152,0",Maxim De Cuyper,,,,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,card,yellow,64,True,"832868,0",Jorge Sánchez,,,,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,63,False,,,,Jérémy Doku,Mika Godts,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,63,False,,,,Nicolas Raskin,Axel Witsel,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,63,False,,,,Thomas Meunier,Timothy Castagne,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,63,False,,,,Amadou Onana,Youri Tielemans,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,substitution,regular,63,False,,,,Charles De Ketelaere,Loïs Openda,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,goal,regular,46,False,"823631,0",Dodi Lukebakio,Youri Tielemans,,,"1,0","1,0",México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,period,,45,,,,,,,"1,0","0,0",México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,injuryTime,,45,,,,,,,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,card,yellow,39,False,"329417,0",Timothy Castagne,,,,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,goal,regular,19,True,"832868,0",Jorge Sánchez,,,,"1,0","0,0",México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15372905,card,yellow,11,True,"843114,0",Julián Quiñones,,,,,,México,2026-04-01 01:00:00,Int. Friendly Games,Mexico,Belgium,Belgium
+15437863,period,,90,,,,,,,"0,0","0,0",México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,injuryTime,,90,,,,,,,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,81,False,,,,Francisco Trincão,Bruno Fernandes,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,78,True,,,,Armando González,Erik Lira,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,78,True,,,,Everardo López,Jesús Gallardo,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,64,False,,,,Paulinho,Gonçalo Ramos,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,60,True,,,,Erick Sánchez,Álvaro Fidalgo,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,60,True,,,,Germán Berterame,Raúl Jiménez,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,60,True,,,,Richard Ledezma,Roberto Alvarado,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,card,yellow,54,True,"770253,0",Jesús Gallardo,,,,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,card,yellow,54,False,"879349,0",Pedro Neto,,,,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,46,False,,,,João Neves,Rúben Neves,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,46,False,,,,Diogo Dalot,Matheus Nunes,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,46,True,,,,Carlos Rodríguez,Obed Vargas,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,46,True,,,,Julián Quiñones,Brian Gutiérrez,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,46,False,,,,João Cancelo,Nuno Mendes,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,46,False,,,,Pedro Neto,Francisco Conceição,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,46,False,,,,Tomás Araújo,António Silva,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,46,False,,,,Gonçalo Guedes,João Félix,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,substitution,regular,46,False,,,,Vitinha,Samú Costa,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,period,,45,,,,,,,"0,0","0,0",México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15437863,injuryTime,,45,,,,,,,,,México,2026-03-29 01:00:00,Int. Friendly Games,Mexico,Portugal,Portugal
+15362811,period,,90,,,,,,,"4,0","0,0",México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,goal,regular,90,True,"1023088,0",Brian Gutiérrez,,,,"4,0","0,0",México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,injuryTime,,90,,,,,,,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,card,yellow,86,True,"770253,0",Jesús Gallardo,,,,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,85,False,,,,Daniel Hafsteinsson,Jóhann Guðmundsson,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,85,False,,,,Baldur Kari Helgason,Guðmundur Þórarinsson,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,77,False,,,,Birnir Snaer Ingason,Ágúst Orri Thorsteinsson,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,card,yellow,70,False,"2203670,0",Ágúst Orri Thorsteinsson,,,,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,66,True,,,,Diego Campillo,Erik Lira,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,66,True,,,,Guillermo Martínez,Armando González,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,66,True,,,,Jesus Garza,Richard Ledezma,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,63,False,,,,Hans Viktor Guðmundsson,Guðmundur Kristjánsson,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,63,False,,,,Hallgrimur Mar Steingrimsson,Helgi Guðjónsson,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,63,False,,,,Óskar Borgthórsson,Emil Atlason,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,goal,regular,59,True,"770253,0",Jesús Gallardo,Alexis Gutiérrez,,,"3,0","0,0",México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,58,True,,,,Erick Sánchez,Marcel Ruíz,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,57,True,,,,Carlos Rodríguez,Efrain Alvarez,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,substitution,regular,57,True,,,,Alexis Gutiérrez,Roberto Alvarado,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,period,,45,,,,,,,"2,0","0,0",México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,injuryTime,,45,,,,,,,,,México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,goal,regular,24,True,"1595162,0",Armando González,,,,"2,0","0,0",México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362811,goal,regular,22,True,"985176,0",Richard Ledezma,Armando González,,,"1,0","0,0",México,2026-02-26 02:00:00,Int. Friendly Games,Mexico,Iceland,Iceland
+15362810,period,,90,,,,,,,"0,0","1,0",México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,injuryTime,,90,,,,,,,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,card,red,84,True,"1441657,0",Robson Matheus,,,,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,75,True,,,,Lucas Chávez,Carlos Melgar,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,75,True,,,,Máximo Mamani,Fernando Nava,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,74,False,,,,Brian Gutiérrez,Marcel Ruíz,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,74,False,,,,Luis Romo,Kevin Castañeda,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,goal,regular,68,False,"822606,0",Germán Berterame,Everardo López,,,"0,0","1,0",México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,66,True,,,,Robson Matheus,Moisés Villarroel,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,card,yellow,64,False,"944068,0",Erik Lira,,,,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,58,False,,,,Denzell Garcia,Jorge Sánchez,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,57,False,,,,Germán Berterame,Armando González,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,57,False,,,,Alexis Gutiérrez,Diego Lainez,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,card,yellow,57,True,"824930,0",Moisés Villarroel,,,,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,card,yellow,53,False,"845849,0",Carlos Rodríguez,,,,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,card,yellow,53,False,"942167,0",Marcel Ruíz,,,,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,46,True,,,,Juan Godoy,Bruno Miranda,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,period,,45,,,,,,,"0,0","0,0",México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,injuryTime,,45,,,,,,,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,card,yellow,43,False,"874535,0",Diego Lainez,,,,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,regular,33,False,,,,Ramón Juárez,Israel Reyes,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,substitution,injury,7,True,,,,Leonardo Zabala,Richet Gomez,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362810,card,yellow,2,False,"832868,0",Jorge Sánchez,,,,,,México,2026-01-25 19:30:00,Int. Friendly Games,Bolivia,Mexico,Bolivia
+15362809,period,,90,,,,,,,"0,0","1,0",México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,goal,ownGoal,90,False,"936182,0",Richard Peralta,,,,"0,0","1,0",México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,injuryTime,,90,,,,,,,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,85,False,,,,Jesús Gallardo,Bryan González,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,injury,80,True,,,,Luis Asprilla,Omar Cordoba,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,73,True,,,,Kahiser Lenis,Giovany Herbert,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,card,yellow,71,False,"942708,0",Kevin Castañeda,,,,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,67,False,,,,Armando González,Marcel Ruíz,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,67,False,,,,Erik Lira,Germán Berterame,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,66,True,,,,Abdul Knight,Héctor Hurtado,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,66,True,,,,Gustavo Herrera,Kadir Barría,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,57,False,,,,Carlos Rodríguez,Obed Vargas,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,57,False,,,,Kevin Castañeda,Brian Gutiérrez,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,57,False,,,,Alexis Gutiérrez,Roberto Alvarado,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,46,True,,,,Ángel Caicedo,Ricardo Phillips,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,substitution,regular,46,True,,,,Javier Rivera,Ariel Arroyo,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,period,,45,,,,,,,"0,0","0,0",México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,card,yellow,36,False,"1172773,0",Luis Romo,,,,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+15362809,card,yellow,25,True,"1084361,0",Daniel Aparicio,,,,,,México,2026-01-23 01:00:00,Int. Friendly Games,Panama,Mexico,Panama
+14994224,period,,90,,,,,,,"1,0","2,0",México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,card,yellow,90,False,"991709,0",Orlando Gill,,,,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,90,False,,,,Lucas Romero,Braian Ojeda,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,83,False,,,,Junior Alonso,Matías Galarza,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,card,yellow,77,True,"850404,0",Orbelín Pineda,,,,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,73,True,,,,Erick Sánchez,Marcel Ruíz,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,68,False,,,,Diego González,Ramón Sosa,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,68,False,,,,Alex Arce,Antonio Sanabria,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,67,True,,,,Armando González,Gilberto Mora,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,67,True,,,,Kevin Álvarez,Israel Reyes,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,60,True,,,,Johan Vásquez,Jesús Orozco,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,60,True,,,,Roberto Alvarado,Jorge Ruvalcaba,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,60,True,,,,Jesús Gallardo,Mateo Chávez,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,goal,regular,56,False,"1015261,0",Damián Bobadilla,Julio Enciso,,,"1,0","2,0",México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,card,yellow,55,False,"1066556,0",Agustín Sández,,,,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,goal,penalty,54,True,"192442,0",Raúl Jiménez,,,,"1,0","1,0",México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,varDecision,goalNotAwarded,51,False,"333261,0",Antonio Sanabria,,,,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,goal,regular,48,False,"333261,0",Antonio Sanabria,Julio Enciso,,,"0,0","1,0",México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,46,False,,,,Damián Bobadilla,Diego Gómez,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,substitution,regular,46,False,,,,Julio Enciso,Miguel Almirón,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,period,,45,,,,,,,"0,0","0,0",México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,card,yellow,37,False,"312824,0",Alan Benítez,,,,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,card,yellow,36,True,"192442,0",Raúl Jiménez,,,,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,card,yellow,24,True,"944068,0",Erik Lira,,,,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994224,card,yellow,-5,True,,,,,,,,México,2025-11-19 01:30:00,Int. Friendly Games,Mexico,Paraguay,Paraguay
+14994228,period,,90,,,,,,,"0,0","0,0",México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,card,yellow,90,False,"311456,0",Guillermo Varela,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,injuryTime,,90,,,,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,card,yellow,89,False,"929193,0",Maximiliano Araújo,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,card,yellow,89,True,"818406,0",César Montes,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,card,yellow,88,False,"155974,0",Rodrigo Aguirre,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,card,yellow,84,False,"325355,0",José María Giménez,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,card,yellow,81,True,"874535,0",Diego Lainez,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,card,yellow,81,False,"874572,0",Facundo Torres,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,substitution,regular,79,True,,,,Germán Berterame,Raúl Jiménez,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,substitution,regular,79,True,,,,Diego Lainez,Roberto Alvarado,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,substitution,regular,74,False,,,,Maximiliano Araújo,Brian Rodríguez,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,substitution,regular,66,True,,,,Erik Lira,Edson Álvarez,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,substitution,regular,65,True,,,,Orbelín Pineda,Erick Sánchez,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,substitution,regular,65,True,,,,Obed Vargas,Marcel Ruíz,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,card,yellow,58,False,"589620,0",Nahitan Nández,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,substitution,regular,46,False,,,,Nahitan Nández,Rodrigo Zalazar,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,substitution,regular,46,False,,,,Facundo Torres,Juan Sanabria,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,period,,45,,,,,,,"0,0","0,0",México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,substitution,regular,45,True,,,,Gilberto Mora,Hirving Lozano,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,injuryTime,,45,,,,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
+14994228,card,yellow,38,True,"847151,0",Edson Álvarez,,,,,,México,2025-11-16 01:00:00,Int. Friendly Games,Mexico,Uruguay,Uruguay
