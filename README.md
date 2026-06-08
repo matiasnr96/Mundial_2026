@@ -50,7 +50,7 @@ Mundial 2026/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/mundial-2026.git
+git clone https://github.com/matiasnr96/mundial-2026.git
 cd mundial-2026
 ```
 
