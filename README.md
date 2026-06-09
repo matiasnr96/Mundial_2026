@@ -137,7 +137,17 @@ Los CSVs en `exports/csv/mundial_2026/` están listos para usar directamente en 
 - Los `PerformanceWarning` en los logs son normales y no afectan los datos
 - A partir del **11/06/2026**, cambiar `SOLO_MUNDIAL = True` en el script para filtrar solo partidos del Mundial
 
+
 ---
+
+## 👤 Autor
+
+**Matias Rodriguez**  
+📧 [rodriguez.matiasn2@gmail.com](mailto:rodriguez.matiasn2@gmail.com)  
+💼 [linkedin.com/in/matias-rodriguez-mnr96](https://www.linkedin.com/in/matias-rodriguez-mnr96/)
+
+---
+
 
 ## 📄 Licencia
 
